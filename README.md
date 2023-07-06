@@ -1,13 +1,13 @@
 # Dictionary
 
-##Install:
+## Install:
 make fclean
 make
 
-##Usage:
+## Usage:
 ./rush-02 <number>
 
-##Examples:
+## Examples:
 ./rush-02 42 | cat -e
 forty two$
 
