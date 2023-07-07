@@ -1,5 +1,10 @@
 # Dictionary
 
+## TODO:
+- Refactor using structs;
+- Add dynamic memory allocation;
+- Error handlers.
+
 ## Install:
 make fclean
 make
